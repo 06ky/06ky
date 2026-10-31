@@ -1,93 +1,89 @@
 <div align="center">
 
-  <!-- Üst Dalga Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=180&section=header&text=06ky&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <!-- Karanlık & Kan Kırmızı Tepe Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,10,1a0000,100,660000&height=200&section=header&text=06ky%20//%20ROOT&fontSize=65&fontColor=ff2a2a&animation=twinkling" width="100%"/>
 
-  <!-- Daktilo (Typewriter) Efekti -->
+  <!-- Kırmızı Siber / Glitch Daktilo Efekti -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Backend+%26+Web+Geli%C5%9Ftirici;Sistem+%26+Otomasyon+Betikleri;Y%C3%BCk+%26+Performans+Testleri;A%C4%9F+%26+Sunucu+Dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=%5B%21%5D+INITIALIZING+PROTOCOL+06...;%5B%2B%5D+ROOT+ACCESS+GRANTED;%5B*%5D+G%C3%96LGELERDE+%C3%87ALI%C5%9EIYORUZ;%5B%23%5D+SYSTEMS+OVERWATCH%3A+ACTIVE;%5B%21%5D+TRUST+NO+ONE.+VERIFY+EVERYTHING." alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Sosyal Medya & İletişim Rozetleri -->
+  <!-- Gizemli İletişim & Protokol Rozetleri -->
   <a href="https://github.com/06ky">
-    <img src="https://img.shields.io/badge/GitHub-06ky-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/IDENTITY-06ky-050505?style=for-the-badge&logo=matrix&logoColor=red&labelColor=000000" alt="Identity" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-Sohbet-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CLEARANCE-CLASSIFIED-7a0000?style=for-the-badge&logo=codacy&logoColor=white" alt="Clearance" />
   </a>
-  <a href="mailto:ornek@mail.com">
-    <img src="https://img.shields.io/badge/Email-Bana_Ulaşın-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/STATUS-UNDERGROUND-050505?style=for-the-badge&logo=target&logoColor=red" alt="Status" />
   </a>
 
 </div>
 
----
+<br/>
 
-### 🚀 Hakkımda
-
-```yaml
-kullanici: 06ky
-odak_alanlari:
-  - Backend Mimarileri ve REST API'ler
-  - Web Performansı ve Stres/Yük Testleri
-  - Sistem Otomasyonu ve Yönetim Betikleri
-  - Ağ & Sunucu Dayanıklılığı
-motto: "Hızlı, ölçeklenebilir ve yüksek yüke dayanıklı sistemler."
+```bash
+[root@06ky-vault ~]# cat /etc/shadow-profile
+------------------------------------------------------------------
+ID            : 06ky
+LOCATION      : Encrypted Node [06 / Ankara Sector]
+ACCESS LEVEL  : ROOT / ZERO-DAY
+SPECIALTY     : Network Traffic, Heavy Loaders, Deep Backend Systems
+SLOGAN        : "Sistemler uyur, gölgeler uyumaz."
+------------------------------------------------------------------
+[!] WARNING   : Unauthorized port scanning will be met with full payload.
 ```
 
-- 🔭 Şu anda **web projeleri, API sistemleri ve sunucu performans analizleri** üzerine çalışıyorum.
-- ⚡ Yüksek trafikli senaryolar için **yük/stres testleri (load testing)** ve otomasyon betikleri geliştiriyorum.
-- 🛠️ Temiz kod, güvenilir sistemler ve optimize edilmiş altyapılara odaklanıyorum.
-
 ---
 
-### 💻 Teknolojiler ve Araçlar
+### 🩸 Cephanelik & Altyapı (Arsenal)
 
 <div align="center">
 
-  <!-- Diller & Scripting -->
-  <h4>Diller & Betikleme</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <h4>Saldırı & Savunma Dilleri</h4>
+  <img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=red" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-050505?style=for-the-badge&logo=cplusplus&logoColor=red" alt="C++" />
+  <img src="https://img.shields.io/badge/PowerShell-050505?style=for-the-badge&logo=powershell&logoColor=red" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash_Shell-050505?style=for-the-badge&logo=gnubash&logoColor=red" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=red" alt="JavaScript" />
 
   <br/><br/>
 
-  <!-- Sistem, Ağ ve Sunucu -->
-  <h4>Sistem, Ağ & Otomasyon</h4>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" alt="cURL" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <h4>Sistemler & Ağ Araçları</h4>
+  <img src="https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=red" alt="Kali" />
+  <img src="https://img.shields.io/badge/Arch_Linux-050505?style=for-the-badge&logo=archlinux&logoColor=red" alt="Arch" />
+  <img src="https://img.shields.io/badge/Wireshark-050505?style=for-the-badge&logo=wireshark&logoColor=red" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/cURL-050505?style=for-the-badge&logo=curl&logoColor=red" alt="Curl" />
+  <img src="https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=red" alt="Docker" />
 
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 💀 Sistem Metrikleri (Deep Telemetry)
 
 <div align="center">
 
-  <!-- Genel Metrikler -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=06ky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8" alt="06ky Stats" />
+  <!-- Kırmızı & Siyah Özel Temalı İstatistik Kartı -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=06ky&show_icons=true&bg_color=050505&title_color=ff0033&icon_color=ff0000&text_color=cccccc&border_color=990000&include_all_commits=true&count_private=true&border_radius=8" alt="06ky Telemetry" />
 
-  <!-- En Çok Kullanılan Diller -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=06ky&layout=compact&theme=tokyonight&border_radius=8" alt="Top Langs" />
+  <!-- En Çok Kullanılan Diller (Kan Kırmızı Border) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=06ky&layout=compact&bg_color=050505&title_color=ff0033&text_color=cccccc&border_color=990000&border_radius=8" alt="06ky Arsenal" />
 
   <br/><br/>
 
-  <!-- Katkı Serisi (Streak) -->
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=06ky&theme=tokyonight&border_radius=8" alt="06ky Streak" />
+  <!-- Katkı Serisi (Streak) - Kan Kırmızı Temalı -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=06ky&theme=blood&background=050505&border=990000&stroke=ff0033&ring=ff0033&fire=ff0000&currStreakLabel=ff0033&border_radius=8" alt="06ky Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%"/>
+  <!-- Alt Kapanış Barı -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,10,1a0000,100,660000&height=100&section=footer" width="100%"/>
+  <p><sub><code>[TRANSMISSION ENDED - CONNECTION PURGED]</code></sub></p>
 </div>
