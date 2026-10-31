@@ -5,7 +5,7 @@
 
   <!-- Daktilo / Typewriter -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Security;SpyHackerz.org+Web+Developer;DarbeTurk.org+Web+Developer;Full-Stack+Web+%26+Sunucu+Y%C3%B6netimi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=Web+Developer+%26+Security;SpyHackerz.org+Developer;DarbeTurk.org+Developer;Full-Stack+Web+%26+Sunucu+Y%C3%B6netimi" alt="Typing SVG" />
   </a>
 
   <br/><br/>
